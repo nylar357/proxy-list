@@ -108,6 +108,16 @@ curl "http://pubproxy.com/api/proxy?limit=2&format=txt&http=true&country=US&type
 > 107.170.221.216:8080
 ```
 
+``` 
+#!/bin/bash
+while :
+do
+        clear
+        https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-raw.txt" > proxy-list.txt
+        sleep 600
+done
+``` 
+
 ### References
 * [ISO 3166-1 alpha-2 country code](https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2)
 * [Google passed proxy](https://www.my-proxy.com/blog/google-proxies-dead)
