@@ -118,6 +118,8 @@ do
 done
 ``` 
 
+Above I included a nice infinite bash loop to recapture the list and dump it every 10 mins.
+
 ### References
 * [ISO 3166-1 alpha-2 country code](https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2)
 * [Google passed proxy](https://www.my-proxy.com/blog/google-proxies-dead)
