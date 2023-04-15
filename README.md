@@ -128,3 +128,6 @@ Above I included a nice infinite bash loop to recapture the list and dump it eve
 Proxy server data courtesy of:
 * [Proxyspy](http://spys.one/en/)
 * [PubProxy](http://pubproxy.com/)
+
+
+ALL CREDIT TO  clarketm the originator of this idea!!!
